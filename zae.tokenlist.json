@@ -1,0 +1,15 @@
+{
+  "name": "ZAE Token List",
+  "timestamp": "2025-04-16T00:00:00Z",
+  "version": { "major": 1, "minor": 0, "patch": 0 },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x420D8633b85c2EC66a747a06EC7615e528C52788",
+      "name": "ZAE Token",
+      "symbol": "ZAE",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/zaeronimperium/zae-token-metadata/main/logo.png"
+    }
+  ]
+}
